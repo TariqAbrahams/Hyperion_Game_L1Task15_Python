@@ -17,9 +17,13 @@
 * DOWN ARROW - Moves your player (Goku) Down.
 * UP ARROW - Moves your player (Goku) Up.
 
+![game picture](https://github.com/TariqAbrahams/Hyperion_Game_L1Task15_Python/blob/master/game.png)
+
 ### If your player (Goku) collides with an enemy e.g Freezer, a message will eppear on the screen saying *You lost to Freezer* etc.
 
 ### If your player (Goku) collides with the prize, a message will appear on the screen saying *Congratulations Goku You Won, Enjoy your treat!!!*
+
+![Game Prize](https://github.com/TariqAbrahams/Hyperion_Game_L1Task15_Python/blob/master/game_prize.png)
 
 ## Support :
 * Name:
